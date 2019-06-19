@@ -56,6 +56,8 @@ Try visiting our FEDA-Github_.
 
 If you can poke around in there we are good.
 Next, let's grab the repository this came from and explore some functionality.
+Go ahead and Shift+RightClick in a folder you want to clone the repo in, and select
+Git Bash.  Within the terminal type the *commands* marked below.
 (Comments are marked with '#', commands are marked with '$')
 
 .. code-block:: console
